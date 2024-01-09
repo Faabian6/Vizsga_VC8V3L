@@ -1,0 +1,180 @@
+Név: Fábián Dániel
+Szak: Mérnökinformatikus
+Neptun azonosító: VC8V3L
+
+
+1. Mi a helyes módja egy osztálypéldány attribútumának elérésének Pythonban?
+
+a) Class.attribute
+b) Class->attribute
+c) Class::attribute
+d) instance.attribute
+Válasz: D
+
+
+2. Mikor használjuk a 'pass' kulcsszót Pythonban?
+
+a) Egy üres blokk létrehozásához
+b) Hurok létrehozásakor
+c) Egy kivétel elkapásakor
+d) Változó inicializálásakor
+Válasz: A
+
+
+3.Mi történik Pythonban, ha egy osztályban nem definiáljuk a __init__ metódust?
+
+a) A program hibát generál
+b) Az osztály nem használható
+c) Az osztály automatikusan kap egy alapértelmezett __init__ metódust
+d) Az osztály minden metódusa hibás lesz
+Válasz: C
+
+
+4. Mire szolgál az init metódus Pythonban?
+
+a) Egy osztály törlésére
+b) Az osztály statikus metódusainak definiálására
+c) Egy osztály metódusainak futtatására
+d) Egy osztály példányának inicializálására
+Válasz: D
+
+
+5. Melyik NEM egy Python adattípus?
+
+a) list
+b) map
+c) set
+d) tuple
+Válasz: B
+
+
+6. Melyik Python kulcsszót használjuk az öröklődés megvalósításához?
+
+a) class Child(Parent):
+b) super
+c) inherits
+d) extends
+Válasz: A
+
+
+7.Mi a célja az egységbezárásnak (encapsulation) az OOP-ban?
+
+a) Az adatok és metódusok elrejtése a külvilág elől
+b) Objektumok közötti kommunikáció javítása
+c) Az öröklődés megkönnyítése
+d) A program futási sebességének növelése
+Válasz: A
+
+
+8. Milyen típusú a Factory design pattern?
+
+a) Létrehozási
+b) Szerkezeti
+c) Viselkedési
+d) Iteratív
+Válasz: A
+
+
+9. Melyik nem egy Python beépített kivételkezelő szerkezet?
+
+a) try...except
+b) try...finally
+c) try...catch
+d) try...except...finally
+Válasz: C
+
+
+10. Mire szolgál a @property dekorátor Pythonban?
+
+a) Egy metódust priváttá tesz
+b) Egy metódust osztályszintűvé tesz
+c) Getterek és setterek létrehozása attribútumokhoz
+d) Az osztály attribútumainak titkosítása
+Válasz: C
+
+
+11. Mi az Adapter design pattern célja?
+
+a) Objektumok gyorsabb létrehozása
+b) Két inkompatibilis interfész összekapcsolása
+c) Kód ismétlésének csökkentése
+d) Programozási hibák automatikus javítása
+Válasz: B
+
+
+12. Hogyan hozunk létre egy új osztálypéldányt Pythonban?
+
+a) ClassName()
+b) ClassName.new()
+c) new ClassName()
+d) ClassName.create()
+Válasz: A
+
+
+13. Mi a Singleton pattern alapvető tulajdonsága?
+
+a) Több példány létrehozása
+b) Különböző típusú objektumok létrehozása
+c) Az objektumok többszörös öröklődése
+d) Egyetlen globálisan elérhető példány biztosítása
+Válasz: D
+
+
+14. Melyik kijelentés igaz az absztrakt osztályokra Pythonban?
+
+a) Absztrakt osztályokat lehet példányosítani
+b) Absztrakt osztályokban minden metódusnak absztraktnak kell lennie
+c) Absztrakt osztályokat nem lehet örökíteni
+d) Absztrakt osztályok absztrakt metódusokat tartalmaznak, amelyeket a leszármazottaknak kell implementálniuk
+Válasz: D
+
+
+15. Miért hasznosak a design pattern-ök a szoftverfejlesztésben?
+
+a) Megnövelik a kód futási sebességét
+b) Megkönnyítik az összetett rendszerek dokumentálását
+c) Javítják a kód újrafelhasználhatóságát és karbantarthatóságát
+d) Csökkentik a szoftver licencköltségeit
+Válasz: C
+
+
+16. Mi a "class" kulcsszó szerepe Pythonban?
+
+a) Osztály létrehozása
+b) Fájl kezelés
+c) Modul importálás
+d) Függvény definiálás
+Válasz: A
+
+17. Mi a különbség az attribútum és a metódus között egy osztályban?
+
+a) Az attribútumok értékeket tárolnak, a metódusok pedig műveleteket végeznek
+b) Az attribútumok konstruktorok, a metódusok pedig destruktorok
+c) Az attribútumok csak osztályváltozók, a metódusok pedig példányváltozók
+d) Nincs különbség, mindkettő ugyanazt a célt szolgálja
+
+Válasz: A
+
+18. Mi az OOP célja az alábbiakból?
+
+a) Adatbázis kezelés
+b) Alacsony szintű memóriakezelés
+c) Eljárási, procedurális programozás kiegészítése
+d) Grafikus felhasználói felület kialakítása
+Válasz: C
+
+19. Miért használunk öröklődést (inheritance) az OOP-ban?
+
+a) Az osztályok egyszerűbbé válnak
+b) Kód újrafelhasználhatósága és kódmegosztás
+c) Biztonsági okokból
+d) Adatbázis optimalizálás
+Válasz: B
+
+20. Melyik kulcsszóval hozhatunk létre egy konstans attribútumot egy osztályban Pythonban?
+
+a) const
+b) Nem létezik külön kulcsszó, konvenció szerint nagybetűvel írjuk
+c) final
+d) constant
+Válasz: B
